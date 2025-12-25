@@ -6,7 +6,6 @@ Summary:	A library and tools to access the JottaCloud API
 URL:		https://pypi.org/project/jottalib/
 License:	GPLv3
 Group:		Development/Python
-BuildRequires:	python
 BuildSystem:	python
 BuildArch:	noarch
 
